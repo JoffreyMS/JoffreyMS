@@ -1,4 +1,4 @@
-###Bonjour! Je suis Joffrey! :wave:
+### Bonjour! Je suis Joffrey! :wave:
 
 Je suis actuellement en formation chez [Ecole O'Clock](https://oclock.io) pour devenir développeur web et web mobile. :rocket:
 
