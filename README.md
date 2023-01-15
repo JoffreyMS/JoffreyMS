@@ -1,6 +1,8 @@
 ### Bonjour! Je suis Joffrey! :wave:
 
-Je suis actuellement en formation chez [Ecole O'Clock](https://oclock.io) pour devenir développeur web et web mobile. :rocket:
+J'ai suivi un parcours de formation chez [Ecole O'Clock](https://oclock.io) pour devenir développeur web et web mobile. :rocket:
+
+Actuellement, je travaille en tant que Développeur web chez [AtolCD](https://www.atolcd.com/)
 
 <!--
 **JoffreyMS/JoffreyMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
